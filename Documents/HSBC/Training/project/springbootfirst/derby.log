@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 02 17:04:56 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0175-88bd-1d33-0000017cbb80 
+on database directory /home/ashutosh/derby_data/testdbInsta with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@27fa135a 
+Loaded from file:/opt/Apache/db-derby-10.13.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=/home/ashutosh/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/springbootfirst
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-122-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
